@@ -1,7 +1,7 @@
 "use client"
 
 import { ColumnDef } from "@tanstack/react-table"
-import { Button } from "@/components/ui/button"
+
 import { MoreHorizontal } from "lucide-react"
 
 import StatusBadge from "../StatusBadge"
