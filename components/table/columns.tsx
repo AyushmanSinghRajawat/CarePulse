@@ -2,7 +2,6 @@
 
 import { ColumnDef } from "@tanstack/react-table"
 
-import { MoreHorizontal } from "lucide-react"
 
 import StatusBadge from "../StatusBadge"
 import { formatDateTime } from "@/lib/utils"
